@@ -24,7 +24,7 @@ TableHelper.java
 
 TableTest.java
 ## How to run file
-First and foremost you have to press "1" in order to create a new Table ,if you don't have already on.If not the program will send you a message if you want to overwrite your current Table.You enter the number of colums and then you enter the name of the columns you want.
+First and foremost you have to press "1" in order to create a new Table ,if you don't have already one.If not the program will send you a message if you want to overwrite your current Table.You enter the number of colums and then you enter the name of the columns you want.
 
 Press "2" to insert data and enter values to fill your Table.
 
