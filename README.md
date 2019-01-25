@@ -1,6 +1,7 @@
 # java2Project
 ## Authors and Contributors
 Nikolaos Strakantounas 8150196
+
 Auxentiou Loukas 8150186
 Iordanis Lappas 8150066
 Konstantina Ventouratou 7160017
